@@ -29,7 +29,7 @@ echo
 sleep 3
 echo
 echo
-npm config set registry https://registry.npm.taobao.org
+npm config set registry https://registry.npmmirror.com
 cd /ql
 TIME l "安装依赖npm..."
 npm install -g npm
